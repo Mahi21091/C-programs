@@ -1,5 +1,5 @@
 #include <stdio.h> 
-  
+  // test githook
 big3() 
 { 
     int A, B, C; 
